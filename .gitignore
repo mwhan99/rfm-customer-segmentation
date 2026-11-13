@@ -2,3 +2,5 @@
 anaconda_projects/
 .DS_Store
 __pycache__/
+.~*
+*.twbr
